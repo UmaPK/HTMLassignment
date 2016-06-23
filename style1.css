@@ -1,0 +1,216 @@
+  .container_12
+  {
+    background-color: #333;
+  overflow:hidden;
+  }
+  body{
+    background-color:#333
+
+    /*background-color: #DDA0DD;*/
+  }
+  nav li{
+    display:inline;
+    margin-left: 36px;
+    margin-right: 20px;
+    }
+    #img1{padding-left:5px;padding-top:10px; padding-bottom:7px;}
+    #img2{padding-left:5px;padding-top: 10px;padding-bottom: 7px;}
+    #im1,#im2{padding-top:3px;padding-left:10px;padding-right:0px;padding-bottom:3px;}
+    #im3{padding-top:0px;padding-left:10px;padding-right:0px;padding-bottom:0px;}
+    #im4{padding-top:0px;padding-left:10px;padding-right:0px;padding-bottom:0px;margin-top: 0px;}
+    #img3{padding-top:2px;padding-left:2px;padding-right: 3px;padding-bottom:2px;}
+  nav{background-color:#333;
+  margin-top:0px;
+  padding-top:5px;
+  margin-left: 0px;
+  /*position: fixed;*/
+  }
+  aside{
+    background-color: green;
+  }
+  .mymc{
+  padding-top:40px;
+  /*margin-top: 200px;*/
+  }
+  .c{
+    background-color: #1ABC9C;
+  }
+  .h11{
+      background-color: #1ABC9C;
+  }
+  .head1{
+        margin-right: 0px;
+  }
+  .primary
+  {
+    background-color: gray;
+  }
+  header{
+  font-family: 'Roboto', sans-serif;
+  position: fixed;
+  background-color: #333;
+  overflow: hidden;
+  }
+  .pa1{
+    font-family: sans-serif;
+    font-weight: bold;
+    padding-top: 10px;
+    text-align: left;
+    font-size:15;
+  }
+  .log1{padding-top: 10px;
+  }
+  .main{margin:30px 0;}
+  .name
+  {
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-style: normal;font-size:15;
+    padding-left: 10px;
+  }
+  section{padding 10px;}
+  .fl{
+    float: right;
+  }
+  .fr
+  {
+    float: right;
+  }
+  /*.container_12 .grid_8 {*/
+        /*margin-top: 10px;*/
+  /*}*/
+  .container_12 .grid_8 {
+        margin-left: 0px;
+  }
+  img{
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  .mr{
+    margin-top: 0px;
+    height:39px;
+  }
+  nav ul li{border: 1px solid #666;}
+  li{
+  display:inline;
+  padding-right: 20px;
+  background-color:#333;
+  padding-left: 20px;
+
+  }
+  nav ul a{
+
+  text-decoration: none;
+  font-weight: bold;
+  font-style: oblique;
+  color:white;
+  padding-right: 0px;
+  /*background-color: white;*/
+  }
+  nav ul a:hover
+  {
+    text-decoration: underline;
+    font-size: 20px;
+    cursor: grab;
+    color: black;
+  flex-grow: 20px;
+  }  footer ul li a  {  background-color: black;    color:white;  }  footer ul li{background-color: black;}  .foot{    background-color: #000000;    margin-bottom: 10px;  }  .s1
+  {
+    margin-top: 160px;
+    background-color:#808080;
+    margin-bottom: 10px;
+    padding-left: 0px;
+    padding-right:0px;
+  }
+  .s1 .s3{margin-right: 0px;}
+  .s2
+  {
+
+      padding-bottom: 5px;
+    background-color:#808080;
+    padding-left: 0px;
+    margin-right:0px;
+    margin-left: 0px;
+  }
+  .s4
+  {
+    font-family: sans-serif;
+    /*font-style: oblique;*/
+    font-weight: bold;
+    font-size: 15;
+    text-align: justify;
+    padding-left: 10px;
+    padding-right:10px;
+    padding-top:10px;
+  }
+  .t1{
+    font-family: sans-serif;
+    /*font-style: oblique;*/
+    font-weight: bold;
+    font-size: 15;
+    background-color:#CCC;
+    text-align: center;
+    margin-right:0px;
+    margin-left: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  .p1{
+    text-align:center;;
+    font-family: sans-serif;
+    /*font-style: oblique;*/
+    font-weight: bold;
+      padding-right:0px;
+    margin-left: 0px;
+    padding-left:2 px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+  }
+  .tag1{
+    background-color: #1ABC9C;
+  }
+  .he2{
+    font-family: sans-serif;
+    font-style: oblique;
+    font-weight: bold;
+    font-size: 20;
+    /*font-size: 20;*/
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-left: 20px;
+      background-color:#CCC;
+  }
+  .he1{
+    text-align:center;;
+    font-family: sans-serif;
+    /*font-style: oblique;*/
+    font-weight: bold;
+    font-size: 30;
+    background-color:#CCC;
+  }
+  li hover{background-color: white;}
+  .s5
+  {
+  margin-top: 30px;
+   /*posit
+    ion:relative;*/
+    /*top:30px;*/
+  }
+  .s9,.s8{margin-top:7px;}
+
+  .s7
+  {
+    margin-top: 30px;
+  }
+  .s6
+  {
+    margin-top: 160px;
+    margin-bottom: 10px;
+    padding-left: 0px;
+    padding-right:0px;
+  }
